@@ -1,8 +1,8 @@
 <project>
     <modelVersion>4.0.0</modelVersion>
-    
+
     <!-- <groupId>org.example</groupId> -->
-    <groupId>com.github.doda25-team5</groupId>
+    <groupId>com.github.dodatest-org</groupId>
     <artifactId>lib-version</artifactId>
     <version>1.0.2-SNAPSHOT</version>
 
@@ -14,7 +14,7 @@
     <repository>
         <id>github</id>
         <name>GitHub Packages</name>
-        <url>https://maven.pkg.github.com/doda25-team5/lib-version</url>
+        <url>https://maven.pkg.github.com/dodatest-org/lib-version</url>
     </repository>
     </distributionManagement>
 
